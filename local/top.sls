@@ -3,5 +3,6 @@ base:
     - base
     - mongo
     - users.user
-    - java.oracle
+    - sudo
+    - elasticsearch
   

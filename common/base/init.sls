@@ -11,3 +11,4 @@ base-packages:
       - ntp
       - openjdk-7-jre-headless
       - curl
+      - sudo
